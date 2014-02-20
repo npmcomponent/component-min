@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var toFunction = require('to-function');
+var toFunction = require('component-to-function');
 
 /**
  * Return the min value in `arr` with optional callback `fn(val, i)`.
